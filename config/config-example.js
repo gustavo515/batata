@@ -330,6 +330,7 @@ exports.grouplist = [
 	},
 	{
 		symbol: ' ',
+		root: true,
 		ip: 's'
-	}       root: true
+
 ];
